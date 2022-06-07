@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FoodExy</string>
+    <string name="error_loading_data">Error loading data</string>
+    <string name="no_data">No data</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="connection_time_out">Connection time out</string>
+    <string name="device_not_connected_internet">Device is not connected to the internet</string>
+    <string name="recipe">Recipe</string>
+    <string name="favorite_recipes">Favorite Recipes</string>
+    <string name="recipe_details">Recipe details</string>
+    <string name="search">Search</string>
+
+    <string name="ad_id_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_id_interstitial">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
